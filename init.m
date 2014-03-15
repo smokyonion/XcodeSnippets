@@ -1,9 +1,11 @@
 // init
 // Designated incantation for your designated initializers
 //
-// Platform: All
+// IDECodeSnippetIdentifier: A25E7C47-30EA-4171-AA43-FDD52F0950AD
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 self = [super init];
 if (!self) {

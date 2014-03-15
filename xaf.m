@@ -1,8 +1,10 @@
 // XCT Assert False
 // Assert false for XCTest
 //
-// Platform: All
+// IDECodeSnippetIdentifier: A2A98AB5-8560-40F1-B97C-D85C117F4D0F
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 XCTAssertFalse(<#expression#>, <#message#>);
